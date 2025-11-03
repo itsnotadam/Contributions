@@ -141,11 +141,6 @@ Yes! Each run will add more commits to your graph.
 ### 🗑️ How do I clear my graph?
 Easiest way is to delete your repository on Github and restart from scratch.
 
-### 💡 Tips for Best Results
-- Use **200-500 commits** for a natural-looking graph
-- **Wait a few minutes** after completion for GitHub to update
-- Use **different private repositories** for different patterns
-
 <br>
 
 ## ⚠️ Disclaimer
