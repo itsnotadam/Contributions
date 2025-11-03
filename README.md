@@ -24,10 +24,8 @@ Before you begin, ensure you have:
 - **Python 3.6+** installed
 - A **GitHub account**
 - A **private repository** (recommended)
-- **GitHub Profile Settings** configured:
-  1. Go to **Settings** → **Contributions & activity**
-  2. **Enable "Include private contributions on my profile"**
-  3. **Disable "Make profile private and hide activiy
+- **GitHub Profile Settings**: 
+  Enable **"Include private contributions on my profile"**
 
 <br>
 
