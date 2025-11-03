@@ -100,6 +100,7 @@ git config --global user.email "yourgithub.email@example.com"
 Add and push the Python file to your repository:
 ```
 git add main.py
+git commit -m "Add commit generator script"
 git push origin main
 ```
 
