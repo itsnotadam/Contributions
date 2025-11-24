@@ -1,6 +1,6 @@
 # 🎲 GitHub Contribution Graph Generator
 
-A simple Python script that generates random commits to create activity on your GitHub contribution graph.
+A simple Python script that generates random commits to create activity on your GitHub contribution graph
 
 ![GitHub](https://img.shields.io/badge/GitHub-Contribution-green) ![Python](https://img.shields.io/badge/Python-3.6+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
